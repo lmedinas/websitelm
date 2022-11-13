@@ -1,14 +1,14 @@
 ---
 title: "New Tab"
 sitemap: false
-toc: true
+ShowToc: true
 toc_label: "Sites"
 toc_icon: "cog"
 permalink: /newtab.html
 ---
 
 Remember back in the day, many personal websites had Links ? 
-So here's some of my favorite Websites:
+So here's some of Websites I read and follow:
 
 ## Search and Social
 
@@ -35,6 +35,8 @@ So here's some of my favorite Websites:
 [Slashdot](https://slashdot.org/)
 
 [Daniel Miessler](https://danielmiessler.com/blog/)
+
+[My Old Wordpress Blog](https://lmedinas.wordpress.com)
 
 ## Code
 

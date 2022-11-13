@@ -39,6 +39,9 @@ languages:
               url: posts
             - name: About
               url: about
+            - name: New Tab
+              url: newtab/
+
         menu:
             main:
                 - name: Archive
@@ -56,9 +59,6 @@ languages:
                 - name: New Tab
                   url: newtab/
                   weight: 3
-                - name: old Blog
-                  url: https://lmedinas.wordpress.com/
-                  weight: 7
                 - name: About
                   url: about/
                   weight: 1
@@ -67,40 +67,36 @@ languages:
         languageName: ":pt:"
         languageAltTitle: Portuguese
         weight: 2
-        title: PaperModL2
+        title: O meu Site pessoal 
         taxonomies:
-          category: FRcategories
-          tag: FRtags
-          series: FRseries
+          category: PTcategories
+          tag: PTtags
+          series: PTseries
         profileMode:
             enabled: true
-            title: PaperMod
+            title: Luis Medinas
             imageUrl: "https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f317.svg"
             imageTitle: ProfileMode image
             # imageWidth: 120
             # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+            subtitle: "🇵🇹 Versão Portuguesa | 🚧 Em construção"
             buttons:
                 - name: Blog
                   url: posts
-                - name: Profile Mode
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
         menu:
             main:
-                - name: Archive
+                - name: Arquivos
                   url: archives/
                   weight: 5
-                - name: FRTags
-                  url: frtags
+                - name: PTTags
+                  url: pttags
                   weight: 10
-                - name: FRCategories
-                  url: frcategories
+                - name: PTCategories
+                  url: ptcategories
                   weight: 10
-                - name: FRSeries
-                  url: frseries
+                - name: PTSeries
+                  url: ptseries
                   weight: 10
-                - name: NullLink
-                  url: "#"
 
 outputs:
     home:
