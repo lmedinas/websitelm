@@ -2,12 +2,11 @@
 title: "Setup"
 sitemap: false
 excerpt: "What is my current setup."
-toc: true
+ShowToc: true
 permalink: /mysetup.html
 ---
 
 **Notice:** Under construction.
-{: .notice--warning}
 
 
 # Hardware

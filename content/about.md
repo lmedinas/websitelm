@@ -3,11 +3,10 @@ layout: splash
 author_profile: true
 title: About
 permalink: /about/
-toc: true
+ShowToc: true
 ---
 
 **Notice:** Under construction.
-{: .notice--warning}
 
 Hi!
 

@@ -1,5 +1,5 @@
 baseURL: "https://lmedinas.netlify.app/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: Luis Medinas Personal Site
+title: My Personal Website
 paginate: 5
 theme: PaperMod
 
@@ -24,6 +24,21 @@ languages:
           category: categories
           tag: tags
           series: series
+        profileMode:
+          enabled: true
+          title: Luis Medinas
+          subtitle: "📓Notes | 💻Setup | ℹ️ Information about me.<p>The opinions expressed here
+           are my own and don't not reflect
+           the position of my employer or any other party."
+          imageUrl: "https://images.unsplash.com/photo-1664977250570-5c399ec4244b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2038&q=80"
+          imageTitle: my image
+          imageWidth: 150
+          imageHeight: 150
+          buttons:
+            - name: Posts
+              url: posts
+            - name: About
+              url: about
         menu:
             main:
                 - name: Archive
@@ -31,22 +46,22 @@ languages:
                   weight: 5
                 - name: Search
                   url: search/
-                  weight: 5
+                  weight: 2
                 - name: Tags
                   url: tags/
-                  weight: 5
+                  weight: 6
                 - name: Setup
                   url: mysetup/
-                  weight: 5
+                  weight: 4
                 - name: New Tab
                   url: newtab/
-                  weight: 5
+                  weight: 3
                 - name: old Blog
                   url: https://lmedinas.wordpress.com/
-                  weight: 5
+                  weight: 7
                 - name: About
                   url: about/
-                  weight: 5
+                  weight: 1
 
     pt:
         languageName: ":pt:"
@@ -112,21 +127,8 @@ params:
     ShowToc: false
     ShowFullTextinRSS: true
     ShareButtons: ["twitter", "reddit", "facebook", "whatsapp", "linkedin"]
-    # comments: false
+    comments: false
     images: ["papermod-cover.png"]
-
-    profileMode:
-        enabled: false
-        title: PaperMod
-        imageUrl: "#"
-        imageTitle: my image
-        # imageWidth: 120
-        # imageHeight: 120
-        buttons:
-            - name: Archives
-              url: archives
-            - name: Tags
-              url: tags
 
     homeInfoParams:
         Title: "Website"
@@ -138,6 +140,10 @@ params:
             - About
             - Contacts
             - Setup
+
+            The opinions expressed here
+            are my own and don't not reflect
+            the position of my employer or any other party.
 
     socialIcons:
         - name: github
@@ -154,7 +160,7 @@ params:
           url: "index.xml"
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/lmedinas/websitelm/tree/master/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
