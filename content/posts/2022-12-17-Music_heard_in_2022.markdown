@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Music i listened a most in 2022"
+title:  "My most listened Music in  2022"
 date:   2022-12-17 21:07:02 +0100
-excerpt: ""
+excerpt: "In 2022 was for me the year where i kinda of refined my music tastes(...)"
 showToc: false
 categories:
     - Music
