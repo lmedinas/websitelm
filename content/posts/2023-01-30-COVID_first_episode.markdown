@@ -23,6 +23,8 @@ Then sadly shortly after Christmas i started to feel slightly sick, promptly per
 The first symptom was pain all over my body: arms, legs, hands and back. Then I started to feel my throat sour and cough and a few hours later in the evening fever around 37.8 degrees Celsius. At the same time i felt incredibly tired and weak, even on the way to my home studio through my home stairs I felt tired. 
 These were basically the symptoms for 3 days, on the 4th day I stopped having fever and sour throat and kept the pain around the body. 
 
+During the time with COVID, I took the usual Paracetamol against fever and ate lot's of Fruit and vegetables.
+
 ![COVID](/covid19_1.jpeg)
 
 # Post COVID
