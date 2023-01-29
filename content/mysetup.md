@@ -19,7 +19,7 @@ The Idea behind this computer is to be a Gaming PC and a general Workstation.
 Components:
 
 * AMD Ryzen 5800x
-* Asus NVidia 2080S
+* MSI Trio OC NVidia 4090 
 * 32GB DDR4
 * 1TB 
 * 1TB SSD
@@ -71,17 +71,17 @@ Today it's rarely used, HD its incredible slow to even boot Mac Os Catalina. It'
 
 ## OS
 
-* **Windows 10**: Seems to be still the most stable Windows, as Windows 11 still has performance issues with Games.
-* **MacOS**:
-* **iOS / iPad OS**:
-* **Linux**: (Steam Deck, Virtual Machine, RPIs and WSL) 
+* **Windows 11**
+* **MacOS**
+* **iOS / iPad OS**
+* **Linux** (Steam Deck, Virtual Machines, RPIs and WSL) 
 
 ## Apps
 
-* **Browsers:**: mostly [Brave](https://www.brave.com/) but on Apple devices [Safari](https://www.apple.com/safari/) works better. I gave up [Firefox](https://www.mozilla.org/en-US/firefox/new/) some time ago, i was mostly using in the last few years just for the cause.
-* **Editors:**: Currently [VSCode](https://code.visualstudio.com/) and [Neovim](https://neovim.io). For years i've used Sublime Text and long time [Emacs](https://www.gnu.org/software/emacs/) user, i love Emacs but i realized by the size of my [.emacsrc](https://github.com/lmedinas/emacsrc) something wasn't right.
-* **Mail**: Most of the time, Webmail and in some rare cases Apple Mail.
-* **Other Apps**: Mainly I waste my time on Signal, WhatsApp, Facetime, Twitter and Steam.
-* **Recording Music**: I use both Neural DSP Fortin Cali and Neural DSP Archtype Petrucci. Both are terrific but the Fortin is the one i use most of the time. It's incredible how good amp sims sound nowadays, out of the box sounds as good if not better than my Tube amps. As DAW i use Reaper.
+* **Browsers:** mostly [Brave](https://www.brave.com/) but on Apple devices [Safari](https://www.apple.com/safari/) works better. I gave up [Firefox](https://www.mozilla.org/en-US/firefox/new/) some time ago, i was mostly using in the last few years just for the cause.
+* **Editors:** Currently [VSCode](https://code.visualstudio.com/) and [Neovim](https://neovim.io). For years i've used Sublime Text and long time [Emacs](https://www.gnu.org/software/emacs/) user, i love Emacs but i realized by the size of my [.emacsrc](https://github.com/lmedinas/emacsrc) something wasn't right.
+* **Mail:** Most of the time, Webmail and in some rare cases Apple Mail.
+* **Other Apps:** Mainly I waste my time on Signal, WhatsApp, Facetime, Twitter and Steam.
+* **Recording Music:** I use both Neural DSP Fortin Cali and Neural DSP Archtype Petrucci. Both are terrific but the Fortin is the one i use most of the time. It's incredible how good amp sims sound nowadays, out of the box sounds as good if not better than my Tube amps. As DAW i use Reaper.
 
 
