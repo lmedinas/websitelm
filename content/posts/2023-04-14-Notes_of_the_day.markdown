@@ -10,8 +10,6 @@ tags:
     - notes
 ---
 
-# 14-04-2023
-
 * Woke up early, slept well but not long.
 * Appointment to check my eyes and vision due to often eyes burning and small headaches. No issues observed, which means I don't need glasses. Burning eyes might be due to lack of humidity in the eyes which could be caused by multiple factors (i.e dry air).
 * short break to to play [Hunt:Showdown](https://www.huntshowdown.com/game).
