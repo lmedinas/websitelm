@@ -4,9 +4,9 @@ title:  "Notes for 14-04-2023"
 date:   2023-04-15 01:31:23 +0100
 showToc: false
 categories: 
-    - notes
+    - post
 tags:
-    - notes
+    - notes life
 ---
 
 ## 14-04-2023
