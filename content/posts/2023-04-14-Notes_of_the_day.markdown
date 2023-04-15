@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "Notes for 14-04-2023"
-date:   2023-04-15 01:31:23 +0100
-excerpt: ""
+date:   2023-04-15T01:10:00+07:00
+excerpt: 
 showToc: false
 categories: 
     - post
@@ -10,7 +10,7 @@ tags:
     - notes
 ---
 
-## 14-04-2023
+# 14-04-2023
 
 * Woke up early, slept well but not long.
 * Appointment to check my eyes and vision due to often eyes burning and small headaches. No issues observed, which means I don't need glasses. Burning eyes might be due to lack of humidity in the eyes which could be caused by multiple factors (i.e dry air).
