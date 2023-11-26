@@ -1,10 +1,13 @@
 ---
+layout: single
 title: "My Setup. Early 2023 Edition."
 date:   2023-11-26T14:03:00+07:00
-sitemap: false
 excerpt: "My Setup. Early 2023 Edition"
 ShowToc: true
-permalink: /mysetup.html
+categories:
+    - post
+tags:
+    - setup
 ---
 
 # Hardware
