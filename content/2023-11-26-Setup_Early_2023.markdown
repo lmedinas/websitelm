@@ -1,13 +1,11 @@
 ---
-title: "Setup"
+title: "My Setup. Early 2023 Edition."
+date:   2023-11-26T14:03:00+07:00
 sitemap: false
-excerpt: "What is my current setup."
+excerpt: "My Setup. Early 2023 Edition"
 ShowToc: true
 permalink: /mysetup.html
 ---
-
-**Notice:** This page is being updated regularly. Posts reflect snapshots of this page for history purposes.
-
 
 # Hardware
 

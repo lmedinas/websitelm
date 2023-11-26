@@ -8,9 +8,9 @@ ShowToc: true
 
 **Notice:** Updated on 20.11.2022.
 
-I'm an Engineer who loves to Tech and tries to build great systems. All my life i was some way or another always involved with Technology.
-With a very early age my parents got an [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) and later watching [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future) changed my life and i knew what i wanted to do from then onwards.
-My alma mater is the [University of Aveiro](https://www.ua.pt) where I got a Masters in Physics Engineering. I have 2 lovely kids and married.
+I'm an Engineer who loves to Tech and tries to build great systems. All my life I was some way or another always involved with Technology.
+With a very early age my parents got an [Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) and together with watching [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future) changed my life and I knew exactly what I wanted to do from those moments onwards.
+My Alma Mater is the [University of Aveiro](https://www.ua.pt) where I got a Masters in Physics Engineering. I have 2 lovely kids and married to a beautiful wife.
 
 # Professional Work
 
@@ -21,22 +21,22 @@ In the past i worked at:
 
 # Tech Work
 
-I was a teenager when i found about **Linux** and **Open Source**, which i feel in Love about the phylosophy and the power of the ecosystem, then i become a community member and made several contributons to **[GNOME](https://www.gnome.org)**, **[Gentoo](https://www.gentoo.org/)**, **OpenSUSE** among others.
+I was a teenager when i found about **Linux** and **Open Source**, which I immediately felt in love about the phylosophy and the power of the ecosystem. Afterwars I became a community member and made several contributons to many FOSS Projects such as: **[GNOME](https://www.gnome.org)**, **[Gentoo](https://www.gentoo.org/)** and **OpenSUSE**.
 
 # Hobbies
 
-To abstract from my Work and have some good quality time, i like to play **Guitar** and play **Video Games**.
+To abstract from my Work and have some good quality time, I like to play **Guitar**, Play **Video Games** and **[Thinkering](https://en.wikipedia.org/wiki/Tinker)** on my Computers/Systems. I like Coding.
 
 ## Guitar
 
-I have a bunch of guitars, amps and effects which i adquired through the years.
+I have a bunch of guitars, amps and effects which i acquired through the years.
 My favorite amp all time is probably the **[Marshall JCM 800](https://en.wikipedia.org/wiki/Marshall_JCM800)**.
 
 I really enjoy playing Blues, Hard rock and several Metal styles.
 
 ## Games
 
-Currently, due to lack of free time, i play occasionaly **CS:GO**, **Call of Duty** or some quick games on the **Steam Deck**. 
+Currently, due to lack of free time, i play occasionally **CS2**, **DiabloIV** on my **[PC](https://www.medinas.org/mysetup/), PS5 or **[Steam Deck](https://www.medinas.org/posts/2022-11-12-steam_deck_review_after_1mo/)**. 
 In the past I had a really good time playing: 
 
 - **World of Warcraft**
@@ -48,3 +48,4 @@ In the past I had a really good time playing:
 - **Americas Army**
 - **DOOM** series
 - **CyberPunk 2077**
+
